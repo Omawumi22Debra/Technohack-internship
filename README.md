@@ -1,5 +1,5 @@
 # Technohack-internship
-Food-sales consumption
+## Food-sales consumption
 
 ## Table of Contents
 - [Project Overview](#project-overview)
