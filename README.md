@@ -16,6 +16,9 @@ Food-sales consumption
 ###  Project Overview
 This is a data analysis project aimed to provide insights on food consumption. By analysing the various types of products and categories consumed in each quarter of the year and gaining a deeper understanding of sales and consumption rate.
 
+[sales-consumption dataset.xls](https://github.com/Omawumi22Debra/Technohack-internship/files/14295693/sales-consumption.dataset.xls)
+
+
 ### Data Sources
 Food consumption: the primary dataset used for this analysis is the "Food consumption dataset1.csv" containing detailed information about the products, categories and sales.
 
@@ -54,6 +57,6 @@ Food consumption: the primary dataset used for this analysis is the "Food consum
   I had to remove all blank cells, so it won’t affect the accuracy of my conclusions from the analysis.
 
 ### References
-YouTube
-Google 
-[Stack overflow(Stack.com)]
+- YouTube
+- Google 
+- [Stack overflow(Stack.com)]
