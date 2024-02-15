@@ -1,3 +1,7 @@
 # House Sales Visualization
 
 ### Project Overview
+This is a data analysis project aimed to provide insights on sales of house(s) in a particular neighbourhood according to building, family size, construction and other amenities.
+
+### Data Sources
+House prices &sales: the primary dataset used for this analysis is the "House prices& Sales.csv" containing detailed information about the house prices and sales according to different category.
