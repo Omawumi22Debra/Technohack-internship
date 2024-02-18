@@ -5,3 +5,30 @@ This is a data analysis project aimed to provide insights on sales of house(s) i
 
 ### Data Sources
 House prices &sales: the primary dataset used for this analysis is the "House prices& Sales.csv" containing detailed information about the house prices and sales according to different category.
+
+### Tools
+- Ms. Excel
+- Tableau
+
+### Exploratory Data Analysis
+- The Eda involved exploring the food consumption data to answer key questions such as:
+- Numbers of 1ST and 2nd floor square feet built yearly.
+- Numbers of 1ST and 2nd floor square feet remodeled yearly.
+- Month of sales of Total Rooms above grade(s).
+- Neighborhoods with the highest sales.
+- Building and Households with the highest lot areas.
+- Overall quality and conditions of the Alleys and foundations
+
+### Results/Findings
+- House style of 1 family with 2 story building type occupies the highest lot areas.
+- Total rooms above Grade were mostly sold in June.
+- Only poured concrete and cinder block in ‘No alley access’ has the highest quality and condition.
+- Numbers of remodelling First and second square feet building reduced from the year 2000.
+
+### Recommendations
+- Build more 2 story for one family setting.
+- Provide more marketing strategy and amenities for the duplex and other building type.
+- Improve the qualities and conditions of all the parts in alley and foundation
+
+### Reference
+- Stack(stack.com)
