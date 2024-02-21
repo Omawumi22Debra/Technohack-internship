@@ -1,1 +1,24 @@
-#Project Overview
+### Project Overview
+This is a data analysis project aimed to provide insights on the Titanic shipwreck disaster. The analysis is aimed at ascertaining the numbers of survivors according to various factors, like socio-economic, gender etc..
+
+### Data sources
+Titanic: the primary dataset used for this analysis is the “titanic (1).zip" containing detailed information about the passengers and their data
+
+### Tools
+Jupyter notebook
+
+### Expolatory data analysis
+- Number of survivors according to pclass
+- Number of survivors based on gender.
+- Number of siblings and spouses embarked.
+- Minimum and Maximum age onboard.
+- Percentage number of survivors and percentage number of deaths.
+
+### Data analysis
+- Pandas
+- Matplotlib
+- Numpy 
+
+### References
+- Stackoverflow
+- youtube
